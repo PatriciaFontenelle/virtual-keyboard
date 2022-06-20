@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/virtual-keyboard/static/css/main.7449590a.css",
+    "main.js": "/virtual-keyboard/static/js/main.be3320df.js",
+    "static/js/787.8eca4478.chunk.js": "/virtual-keyboard/static/js/787.8eca4478.chunk.js",
+    "index.html": "/virtual-keyboard/index.html",
+    "main.7449590a.css.map": "/virtual-keyboard/static/css/main.7449590a.css.map",
+    "main.be3320df.js.map": "/virtual-keyboard/static/js/main.be3320df.js.map",
+    "787.8eca4478.chunk.js.map": "/virtual-keyboard/static/js/787.8eca4478.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7449590a.css",
+    "static/js/main.be3320df.js"
+  ]
+}
