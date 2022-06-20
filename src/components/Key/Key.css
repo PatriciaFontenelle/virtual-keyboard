@@ -1,0 +1,36 @@
+.key-container {
+    min-width: 40px;
+    width: fit-content;
+    height:40px ;
+    background-color: gray;
+    color: white;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    border: none;
+    cursor: pointer;
+    padding: 5px 10px;
+
+}
+
+.key-container:hover,
+.active {
+    color: gray;
+    background-color: rgba(128, 128, 128, 0.5);
+}
+
+.key-container:active {
+    background-color: whitesmoke;
+}
+
+.action {
+    flex: 1;
+}
+
+.secondary-value {
+    font-size: 0.7rem;
+    align-self: flex-end;
+    opacity: 0.5;
+}
