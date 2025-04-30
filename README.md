@@ -12,6 +12,10 @@ This projects simulates a virtual keyboard.
 2. Run npm i;
 3. Run npm start;
 
+   OR
+
+Visit: [Virtual Keyboard - Patrícia Fontenelle](https://patriciafontenelle.github.io/virtual-keyboard/)
+
 ## Used Technologies
 
 1. ReactJS
